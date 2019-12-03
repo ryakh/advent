@@ -1,0 +1,15 @@
+{
+  "name": "advent",
+  "description": "Advent of Code 2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryakh/advent"
+  },
+  "author": "ruslan@rusaln.io",
+  "license": "WTFPL",
+  "homepage": "https://github.com/ryakh/advent"
+}
